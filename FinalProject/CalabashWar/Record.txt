@@ -1,0 +1,391 @@
+Current Creatures: 16
+Left Pattern:FinalProject.CalabashWar.Patterns.FengShi
+Right Pattern:FinalProject.CalabashWar.Patterns.YanYue
+Creature:class FinalProject.CalabashWar.Creatures.Scorpion Point:17,5
+Creature:class FinalProject.CalabashWar.Creatures.Snake Point:18,6
+Creature:class FinalProject.CalabashWar.Creatures.Underling Point:19,7
+Creature:class FinalProject.CalabashWar.Creatures.Underling Point:18,7
+Creature:class FinalProject.CalabashWar.Creatures.Underling Point:19,8
+Creature:class FinalProject.CalabashWar.Creatures.Underling Point:18,8
+Creature:class FinalProject.CalabashWar.Creatures.Underling Point:18,9
+Creature:class FinalProject.CalabashWar.Creatures.Underling Point:17,10
+Creature:class FinalProject.CalabashWar.Creatures.CB6 Point:3,7
+Creature:class FinalProject.CalabashWar.Creatures.CB2 Point:2,6
+Creature:class FinalProject.CalabashWar.Creatures.CB1 Point:1,5
+Creature:class FinalProject.CalabashWar.Creatures.CB5 Point:2,7
+Creature:class FinalProject.CalabashWar.Creatures.CB4 Point:1,7
+Creature:class FinalProject.CalabashWar.Creatures.CB7 Point:2,8
+Creature:class FinalProject.CalabashWar.Creatures.CB3 Point:0,7
+Creature:class FinalProject.CalabashWar.Creatures.Grandpa Point:1,9
+FinalProject.CalabashWar.Creatures.Snake moves.(17,6)
+FinalProject.CalabashWar.Creatures.Underling moves.(17,8)
+FinalProject.CalabashWar.Creatures.CB2 moves.(3,6)
+FinalProject.CalabashWar.Creatures.Scorpion moves.(16,5)
+FinalProject.CalabashWar.Creatures.Underling moves.(18,8)
+FinalProject.CalabashWar.Creatures.CB6 moves.(4,7)
+FinalProject.CalabashWar.Creatures.Underling moves.(17,9)
+FinalProject.CalabashWar.Creatures.CB1 moves.(2,5)
+FinalProject.CalabashWar.Creatures.Underling moves.(17,7)
+FinalProject.CalabashWar.Creatures.Underling moves.(16,10)
+FinalProject.CalabashWar.Creatures.CB5 moves.(3,7)
+FinalProject.CalabashWar.Creatures.CB7 moves.(3,8)
+FinalProject.CalabashWar.Creatures.Grandpa moves.(2,9)
+FinalProject.CalabashWar.Creatures.CB4 moves.(2,7)
+FinalProject.CalabashWar.Creatures.Underling moves.(18,7)
+FinalProject.CalabashWar.Creatures.CB3 moves.(1,7)
+
+Current Creatures: 16
+FinalProject.CalabashWar.Creatures.Snake moves.(16,6)
+FinalProject.CalabashWar.Creatures.CB2 moves.(4,6)
+FinalProject.CalabashWar.Creatures.Underling moves.(16,9)
+FinalProject.CalabashWar.Creatures.CB1 moves.(3,5)
+FinalProject.CalabashWar.Creatures.Underling moves.(16,7)
+FinalProject.CalabashWar.Creatures.Underling moves.(15,10)
+FinalProject.CalabashWar.Creatures.CB5 moves.(4,7)
+FinalProject.CalabashWar.Creatures.Scorpion moves.(15,5)
+FinalProject.CalabashWar.Creatures.Grandpa moves.(3,9)
+FinalProject.CalabashWar.Creatures.CB4 moves.(3,7)
+FinalProject.CalabashWar.Creatures.Underling moves.(16,8)
+FinalProject.CalabashWar.Creatures.Underling moves.(17,7)
+FinalProject.CalabashWar.Creatures.CB7 moves.(4,8)
+FinalProject.CalabashWar.Creatures.CB6 moves.(5,7)
+FinalProject.CalabashWar.Creatures.Underling moves.(17,8)
+FinalProject.CalabashWar.Creatures.CB3 moves.(2,7)
+
+Current Creatures: 16
+FinalProject.CalabashWar.Creatures.Snake moves.(15,6)
+FinalProject.CalabashWar.Creatures.CB2 moves.(5,6)
+FinalProject.CalabashWar.Creatures.Underling moves.(15,9)
+FinalProject.CalabashWar.Creatures.CB1 moves.(4,5)
+FinalProject.CalabashWar.Creatures.Underling moves.(15,7)
+FinalProject.CalabashWar.Creatures.Underling moves.(14,10)
+FinalProject.CalabashWar.Creatures.Scorpion moves.(14,5)
+FinalProject.CalabashWar.Creatures.Grandpa moves.(4,9)
+FinalProject.CalabashWar.Creatures.Underling moves.(16,7)
+FinalProject.CalabashWar.Creatures.Underling moves.(15,8)
+FinalProject.CalabashWar.Creatures.CB7 moves.(5,8)
+FinalProject.CalabashWar.Creatures.Underling moves.(16,8)
+FinalProject.CalabashWar.Creatures.CB6 moves.(6,7)
+FinalProject.CalabashWar.Creatures.CB3 Move failed
+FinalProject.CalabashWar.Creatures.CB5 moves.(5,7)
+FinalProject.CalabashWar.Creatures.CB4 moves.(4,7)
+
+Current Creatures: 16
+FinalProject.CalabashWar.Creatures.CB2 moves.(6,6)
+FinalProject.CalabashWar.Creatures.Scorpion moves.(13,5)
+FinalProject.CalabashWar.Creatures.CB1 moves.(5,5)
+FinalProject.CalabashWar.Creatures.Snake moves.(14,6)
+FinalProject.CalabashWar.Creatures.Underling moves.(14,9)
+FinalProject.CalabashWar.Creatures.Underling moves.(13,10)
+FinalProject.CalabashWar.Creatures.Underling moves.(14,7)
+FinalProject.CalabashWar.Creatures.Grandpa moves.(5,9)
+FinalProject.CalabashWar.Creatures.Underling moves.(15,7)
+FinalProject.CalabashWar.Creatures.Underling moves.(14,8)
+FinalProject.CalabashWar.Creatures.CB7 moves.(6,8)
+FinalProject.CalabashWar.Creatures.Underling moves.(15,8)
+FinalProject.CalabashWar.Creatures.CB3 moves.(3,7)
+FinalProject.CalabashWar.Creatures.CB5 moves.(6,7)
+FinalProject.CalabashWar.Creatures.CB6 moves.(7,7)
+FinalProject.CalabashWar.Creatures.CB4 moves.(5,7)
+
+Current Creatures: 16
+FinalProject.CalabashWar.Creatures.CB2 moves.(7,6)
+FinalProject.CalabashWar.Creatures.Underling moves.(12,10)
+FinalProject.CalabashWar.Creatures.Scorpion moves.(12,5)
+FinalProject.CalabashWar.Creatures.Snake moves.(13,6)
+FinalProject.CalabashWar.Creatures.Underling moves.(13,7)
+FinalProject.CalabashWar.Creatures.Underling moves.(13,9)
+FinalProject.CalabashWar.Creatures.Grandpa moves.(6,9)
+FinalProject.CalabashWar.Creatures.CB1 moves.(6,5)
+FinalProject.CalabashWar.Creatures.Underling moves.(14,7)
+FinalProject.CalabashWar.Creatures.CB3 moves.(4,7)
+FinalProject.CalabashWar.Creatures.Underling moves.(13,8)
+FinalProject.CalabashWar.Creatures.CB7 moves.(7,8)
+FinalProject.CalabashWar.Creatures.CB6 moves.(8,7)
+FinalProject.CalabashWar.Creatures.CB4 Move failed
+FinalProject.CalabashWar.Creatures.CB5 moves.(7,7)
+FinalProject.CalabashWar.Creatures.Underling moves.(14,8)
+
+Current Creatures: 16
+FinalProject.CalabashWar.Creatures.Snake moves.(12,6)
+FinalProject.CalabashWar.Creatures.CB2 moves.(8,6)
+FinalProject.CalabashWar.Creatures.Underling moves.(11,10)
+FinalProject.CalabashWar.Creatures.CB1 moves.(7,5)
+FinalProject.CalabashWar.Creatures.Scorpion moves.(11,5)
+FinalProject.CalabashWar.Creatures.Underling moves.(12,7)
+FinalProject.CalabashWar.Creatures.Underling moves.(12,9)
+FinalProject.CalabashWar.Creatures.Grandpa moves.(7,9)
+FinalProject.CalabashWar.Creatures.Underling moves.(12,8)
+FinalProject.CalabashWar.Creatures.CB6 moves.(9,7)
+FinalProject.CalabashWar.Creatures.CB7 moves.(8,8)
+FinalProject.CalabashWar.Creatures.CB4 moves.(6,7)
+FinalProject.CalabashWar.Creatures.CB5 moves.(8,7)
+FinalProject.CalabashWar.Creatures.Underling moves.(13,8)
+FinalProject.CalabashWar.Creatures.Underling moves.(13,7)
+FinalProject.CalabashWar.Creatures.CB3 moves.(5,7)
+
+Current Creatures: 16
+FinalProject.CalabashWar.Creatures.Snake moves.(11,6)
+FinalProject.CalabashWar.Creatures.CB1 moves.(8,5)
+FinalProject.CalabashWar.Creatures.Underling moves.(11,7)
+FinalProject.CalabashWar.Creatures.CB2 moves.(9,6)
+FinalProject.CalabashWar.Creatures.Underling moves.(10,10)
+FinalProject.CalabashWar.Creatures.Underling moves.(11,9)
+FinalProject.CalabashWar.Creatures.Scorpion moves.(10,5)
+Fightround:FinalProject.CalabashWar.Creatures.CB2 & FinalProject.CalabashWar.Creatures.Scorpion
+FinalProject.CalabashWar.Creatures.CB2 was attacked by 175 HP now: 825.0
+Fightround:FinalProject.CalabashWar.Creatures.CB2 & FinalProject.CalabashWar.Creatures.Scorpion
+FinalProject.CalabashWar.Creatures.Scorpion was attacked by 108 HP now: 1092.0
+Fightround:FinalProject.CalabashWar.Creatures.CB2 & FinalProject.CalabashWar.Creatures.Scorpion
+FinalProject.CalabashWar.Creatures.CB2 was attacked by 170 HP now: 655.0
+Fightround:FinalProject.CalabashWar.Creatures.CB2 & FinalProject.CalabashWar.Creatures.Scorpion
+FinalProject.CalabashWar.Creatures.Scorpion was attacked by 136 HP now: 956.0
+Fightround:FinalProject.CalabashWar.Creatures.CB2 & FinalProject.CalabashWar.Creatures.Scorpion
+FinalProject.CalabashWar.Creatures.CB2 was attacked by 143 HP now: 512.0
+Fightround:FinalProject.CalabashWar.Creatures.CB2 & FinalProject.CalabashWar.Creatures.Scorpion
+FinalProject.CalabashWar.Creatures.Scorpion was attacked by 137 HP now: 819.0
+Fightround:FinalProject.CalabashWar.Creatures.CB2 & FinalProject.CalabashWar.Creatures.Scorpion
+FinalProject.CalabashWar.Creatures.CB2 was attacked by 148 HP now: 364.0
+Fightround:FinalProject.CalabashWar.Creatures.CB2 & FinalProject.CalabashWar.Creatures.Scorpion
+FinalProject.CalabashWar.Creatures.Scorpion was attacked by 120 HP now: 699.0
+Fightround:FinalProject.CalabashWar.Creatures.CB2 & FinalProject.CalabashWar.Creatures.Scorpion
+FinalProject.CalabashWar.Creatures.CB2 was attacked by 133 HP now: 231.0
+Fightround:FinalProject.CalabashWar.Creatures.CB2 & FinalProject.CalabashWar.Creatures.Scorpion
+FinalProject.CalabashWar.Creatures.Scorpion was attacked by 123 HP now: 576.0
+Fightround:FinalProject.CalabashWar.Creatures.CB2 & FinalProject.CalabashWar.Creatures.Scorpion
+FinalProject.CalabashWar.Creatures.CB2 was attacked by 169 HP now: 62.0
+Fightround:FinalProject.CalabashWar.Creatures.CB2 & FinalProject.CalabashWar.Creatures.Scorpion
+FinalProject.CalabashWar.Creatures.Scorpion was attacked by 128 HP now: 448.0
+Fightround:FinalProject.CalabashWar.Creatures.CB2 & FinalProject.CalabashWar.Creatures.Scorpion
+FinalProject.CalabashWar.Creatures.CB2 was attacked by 126 HP now: -64.0
+FinalProject.CalabashWar.Creatures.Grandpa moves.(8,9)
+FinalProject.CalabashWar.Creatures.CB6 moves.(10,7)
+Fightround:FinalProject.CalabashWar.Creatures.CB6 & FinalProject.CalabashWar.Creatures.Scorpion
+FinalProject.CalabashWar.Creatures.Scorpion was attacked by 108 HP now: 340.0
+Fightround:FinalProject.CalabashWar.Creatures.CB6 & FinalProject.CalabashWar.Creatures.Scorpion
+FinalProject.CalabashWar.Creatures.CB6 was attacked by 137 HP now: 863.0
+Fightround:FinalProject.CalabashWar.Creatures.CB6 & FinalProject.CalabashWar.Creatures.Scorpion
+FinalProject.CalabashWar.Creatures.Scorpion was attacked by 122 HP now: 218.0
+Fightround:FinalProject.CalabashWar.Creatures.CB6 & FinalProject.CalabashWar.Creatures.Scorpion
+FinalProject.CalabashWar.Creatures.CB6 was attacked by 122 HP now: 741.0
+Fightround:FinalProject.CalabashWar.Creatures.CB6 & FinalProject.CalabashWar.Creatures.Scorpion
+FinalProject.CalabashWar.Creatures.Scorpion was attacked by 138 HP now: 80.0
+Fightround:FinalProject.CalabashWar.Creatures.CB6 & FinalProject.CalabashWar.Creatures.Scorpion
+FinalProject.CalabashWar.Creatures.CB6 was attacked by 147 HP now: 594.0
+Fightround:FinalProject.CalabashWar.Creatures.CB6 & FinalProject.CalabashWar.Creatures.Scorpion
+FinalProject.CalabashWar.Creatures.Scorpion was attacked by 128 HP now: -48.0
+Fightround:FinalProject.CalabashWar.Creatures.CB6 & FinalProject.CalabashWar.Creatures.Underling
+FinalProject.CalabashWar.Creatures.Underling was attacked by 145 HP now: 555.0
+Fightround:FinalProject.CalabashWar.Creatures.CB6 & FinalProject.CalabashWar.Creatures.Underling
+FinalProject.CalabashWar.Creatures.CB6 was attacked by 76 HP now: 518.0
+Fightround:FinalProject.CalabashWar.Creatures.CB6 & FinalProject.CalabashWar.Creatures.Underling
+FinalProject.CalabashWar.Creatures.Underling was attacked by 105 HP now: 450.0
+Fightround:FinalProject.CalabashWar.Creatures.CB6 & FinalProject.CalabashWar.Creatures.Underling
+FinalProject.CalabashWar.Creatures.CB6 was attacked by 81 HP now: 437.0
+Fightround:FinalProject.CalabashWar.Creatures.CB6 & FinalProject.CalabashWar.Creatures.Underling
+FinalProject.CalabashWar.Creatures.Underling was attacked by 140 HP now: 310.0
+Fightround:FinalProject.CalabashWar.Creatures.CB6 & FinalProject.CalabashWar.Creatures.Underling
+FinalProject.CalabashWar.Creatures.CB6 was attacked by 63 HP now: 374.0
+Fightround:FinalProject.CalabashWar.Creatures.CB6 & FinalProject.CalabashWar.Creatures.Underling
+FinalProject.CalabashWar.Creatures.Underling was attacked by 117 HP now: 193.0
+Fightround:FinalProject.CalabashWar.Creatures.CB6 & FinalProject.CalabashWar.Creatures.Underling
+FinalProject.CalabashWar.Creatures.CB6 was attacked by 61 HP now: 313.0
+Fightround:FinalProject.CalabashWar.Creatures.CB6 & FinalProject.CalabashWar.Creatures.Underling
+FinalProject.CalabashWar.Creatures.Underling was attacked by 104 HP now: 89.0
+Fightround:FinalProject.CalabashWar.Creatures.CB6 & FinalProject.CalabashWar.Creatures.Underling
+FinalProject.CalabashWar.Creatures.CB6 was attacked by 81 HP now: 232.0
+Fightround:FinalProject.CalabashWar.Creatures.CB6 & FinalProject.CalabashWar.Creatures.Underling
+FinalProject.CalabashWar.Creatures.Underling was attacked by 121 HP now: -32.0
+Fightround:FinalProject.CalabashWar.Creatures.CB6 & FinalProject.CalabashWar.Creatures.Snake
+FinalProject.CalabashWar.Creatures.Snake was attacked by 116 HP now: 884.0
+Fightround:FinalProject.CalabashWar.Creatures.CB6 & FinalProject.CalabashWar.Creatures.Snake
+FinalProject.CalabashWar.Creatures.CB6 was attacked by 128 HP now: 104.0
+Fightround:FinalProject.CalabashWar.Creatures.CB6 & FinalProject.CalabashWar.Creatures.Snake
+FinalProject.CalabashWar.Creatures.Snake was attacked by 122 HP now: 762.0
+Fightround:FinalProject.CalabashWar.Creatures.CB6 & FinalProject.CalabashWar.Creatures.Snake
+FinalProject.CalabashWar.Creatures.CB6 was attacked by 187 HP now: -83.0
+FinalProject.CalabashWar.Creatures.CB7 moves.(9,8)
+FinalProject.CalabashWar.Creatures.CB4 moves.(7,7)
+FinalProject.CalabashWar.Creatures.Underling moves.(12,7)
+FinalProject.CalabashWar.Creatures.Underling moves.(11,8)
+FinalProject.CalabashWar.Creatures.CB3 moves.(6,7)
+FinalProject.CalabashWar.Creatures.Underling moves.(12,8)
+FinalProject.CalabashWar.Creatures.CB5 moves.(9,7)
+
+Current Creatures: 12
+FinalProject.CalabashWar.Creatures.Snake moves.(10,6)
+FinalProject.CalabashWar.Creatures.Underling moves.(10,7)
+Fightround:FinalProject.CalabashWar.Creatures.CB5 & FinalProject.CalabashWar.Creatures.Underling
+FinalProject.CalabashWar.Creatures.CB5 was attacked by 80 HP now: 920.0
+Fightround:FinalProject.CalabashWar.Creatures.CB5 & FinalProject.CalabashWar.Creatures.Underling
+FinalProject.CalabashWar.Creatures.Underling was attacked by 123 HP now: 577.0
+Fightround:FinalProject.CalabashWar.Creatures.CB5 & FinalProject.CalabashWar.Creatures.Underling
+FinalProject.CalabashWar.Creatures.CB5 was attacked by 80 HP now: 840.0
+Fightround:FinalProject.CalabashWar.Creatures.CB5 & FinalProject.CalabashWar.Creatures.Underling
+FinalProject.CalabashWar.Creatures.Underling was attacked by 143 HP now: 434.0
+Fightround:FinalProject.CalabashWar.Creatures.CB5 & FinalProject.CalabashWar.Creatures.Underling
+FinalProject.CalabashWar.Creatures.CB5 was attacked by 79 HP now: 761.0
+Fightround:FinalProject.CalabashWar.Creatures.CB5 & FinalProject.CalabashWar.Creatures.Underling
+FinalProject.CalabashWar.Creatures.Underling was attacked by 103 HP now: 331.0
+Fightround:FinalProject.CalabashWar.Creatures.CB5 & FinalProject.CalabashWar.Creatures.Underling
+FinalProject.CalabashWar.Creatures.CB5 was attacked by 79 HP now: 682.0
+Fightround:FinalProject.CalabashWar.Creatures.CB5 & FinalProject.CalabashWar.Creatures.Underling
+FinalProject.CalabashWar.Creatures.Underling was attacked by 140 HP now: 191.0
+Fightround:FinalProject.CalabashWar.Creatures.CB5 & FinalProject.CalabashWar.Creatures.Underling
+FinalProject.CalabashWar.Creatures.CB5 was attacked by 75 HP now: 607.0
+Fightround:FinalProject.CalabashWar.Creatures.CB5 & FinalProject.CalabashWar.Creatures.Underling
+FinalProject.CalabashWar.Creatures.Underling was attacked by 131 HP now: 60.0
+Fightround:FinalProject.CalabashWar.Creatures.CB5 & FinalProject.CalabashWar.Creatures.Underling
+FinalProject.CalabashWar.Creatures.CB5 was attacked by 71 HP now: 536.0
+Fightround:FinalProject.CalabashWar.Creatures.CB5 & FinalProject.CalabashWar.Creatures.Underling
+FinalProject.CalabashWar.Creatures.Underling was attacked by 147 HP now: -87.0
+FinalProject.CalabashWar.Creatures.CB1 moves.(9,5)
+FinalProject.CalabashWar.Creatures.Underling moves.(10,9)
+Fightround:FinalProject.CalabashWar.Creatures.CB7 & FinalProject.CalabashWar.Creatures.Underling
+FinalProject.CalabashWar.Creatures.CB7 was attacked by 71 HP now: 929.0
+Fightround:FinalProject.CalabashWar.Creatures.CB7 & FinalProject.CalabashWar.Creatures.Underling
+FinalProject.CalabashWar.Creatures.Underling was attacked by 132 HP now: 568.0
+Fightround:FinalProject.CalabashWar.Creatures.CB7 & FinalProject.CalabashWar.Creatures.Underling
+FinalProject.CalabashWar.Creatures.CB7 was attacked by 63 HP now: 866.0
+Fightround:FinalProject.CalabashWar.Creatures.CB7 & FinalProject.CalabashWar.Creatures.Underling
+FinalProject.CalabashWar.Creatures.Underling was attacked by 129 HP now: 439.0
+Fightround:FinalProject.CalabashWar.Creatures.CB7 & FinalProject.CalabashWar.Creatures.Underling
+FinalProject.CalabashWar.Creatures.CB7 was attacked by 66 HP now: 800.0
+Fightround:FinalProject.CalabashWar.Creatures.CB7 & FinalProject.CalabashWar.Creatures.Underling
+FinalProject.CalabashWar.Creatures.Underling was attacked by 102 HP now: 337.0
+Fightround:FinalProject.CalabashWar.Creatures.CB7 & FinalProject.CalabashWar.Creatures.Underling
+FinalProject.CalabashWar.Creatures.CB7 was attacked by 86 HP now: 714.0
+Fightround:FinalProject.CalabashWar.Creatures.CB7 & FinalProject.CalabashWar.Creatures.Underling
+FinalProject.CalabashWar.Creatures.Underling was attacked by 132 HP now: 205.0
+Fightround:FinalProject.CalabashWar.Creatures.CB7 & FinalProject.CalabashWar.Creatures.Underling
+FinalProject.CalabashWar.Creatures.CB7 was attacked by 72 HP now: 642.0
+Fightround:FinalProject.CalabashWar.Creatures.CB7 & FinalProject.CalabashWar.Creatures.Underling
+FinalProject.CalabashWar.Creatures.Underling was attacked by 146 HP now: 59.0
+Fightround:FinalProject.CalabashWar.Creatures.CB7 & FinalProject.CalabashWar.Creatures.Underling
+FinalProject.CalabashWar.Creatures.CB7 was attacked by 85 HP now: 557.0
+Fightround:FinalProject.CalabashWar.Creatures.CB7 & FinalProject.CalabashWar.Creatures.Underling
+FinalProject.CalabashWar.Creatures.Underling was attacked by 129 HP now: -70.0
+Fightround:FinalProject.CalabashWar.Creatures.CB1 & FinalProject.CalabashWar.Creatures.Snake
+FinalProject.CalabashWar.Creatures.CB1 was attacked by 102 HP now: 898.0
+FinalProject.CalabashWar.Creatures.Grandpa moves.(9,9)
+FinalProject.CalabashWar.Creatures.CB7 moves.(10,8)
+FinalProject.CalabashWar.Creatures.Underling moves.(11,7)
+Fightround:FinalProject.CalabashWar.Creatures.CB7 & FinalProject.CalabashWar.Creatures.Underling
+FinalProject.CalabashWar.Creatures.CB4 moves.(8,7)
+Fightround:FinalProject.CalabashWar.Creatures.CB1 & FinalProject.CalabashWar.Creatures.Snake
+FinalProject.CalabashWar.Creatures.Snake was attacked by 181 HP now: 581.0
+Fightround:FinalProject.CalabashWar.Creatures.CB1 & FinalProject.CalabashWar.Creatures.Snake
+FinalProject.CalabashWar.Creatures.CB1 was attacked by 105 HP now: 793.0
+Fightround:FinalProject.CalabashWar.Creatures.CB1 & FinalProject.CalabashWar.Creatures.Snake
+FinalProject.CalabashWar.Creatures.Snake was attacked by 163 HP now: 418.0
+Fightround:FinalProject.CalabashWar.Creatures.CB1 & FinalProject.CalabashWar.Creatures.Snake
+FinalProject.CalabashWar.Creatures.CB1 was attacked by 131 HP now: 662.0
+Fightround:FinalProject.CalabashWar.Creatures.CB1 & FinalProject.CalabashWar.Creatures.Snake
+FinalProject.CalabashWar.Creatures.Snake was attacked by 178 HP now: 240.0
+Fightround:FinalProject.CalabashWar.Creatures.CB1 & FinalProject.CalabashWar.Creatures.Snake
+FinalProject.CalabashWar.Creatures.CB1 was attacked by 160 HP now: 502.0
+Fightround:FinalProject.CalabashWar.Creatures.CB1 & FinalProject.CalabashWar.Creatures.Snake
+FinalProject.CalabashWar.Creatures.Snake was attacked by 171 HP now: 69.0
+Fightround:FinalProject.CalabashWar.Creatures.CB1 & FinalProject.CalabashWar.Creatures.Snake
+FinalProject.CalabashWar.Creatures.CB1 was attacked by 194 HP now: 308.0
+Fightround:FinalProject.CalabashWar.Creatures.CB1 & FinalProject.CalabashWar.Creatures.Snake
+FinalProject.CalabashWar.Creatures.Snake was attacked by 184 HP now: -115.0
+FinalProject.CalabashWar.Creatures.CB7 was attacked by 79 HP now: 478.0
+Fightround:FinalProject.CalabashWar.Creatures.CB7 & FinalProject.CalabashWar.Creatures.Underling
+FinalProject.CalabashWar.Creatures.Underling was attacked by 142 HP now: 558.0
+Fightround:FinalProject.CalabashWar.Creatures.CB7 & FinalProject.CalabashWar.Creatures.Underling
+FinalProject.CalabashWar.Creatures.CB7 was attacked by 72 HP now: 406.0
+Fightround:FinalProject.CalabashWar.Creatures.CB7 & FinalProject.CalabashWar.Creatures.Underling
+FinalProject.CalabashWar.Creatures.Underling was attacked by 118 HP now: 440.0
+Fightround:FinalProject.CalabashWar.Creatures.CB7 & FinalProject.CalabashWar.Creatures.Underling
+FinalProject.CalabashWar.Creatures.CB7 was attacked by 85 HP now: 321.0
+Fightround:FinalProject.CalabashWar.Creatures.CB7 & FinalProject.CalabashWar.Creatures.Underling
+FinalProject.CalabashWar.Creatures.Underling was attacked by 137 HP now: 303.0
+FinalProject.CalabashWar.Creatures.CB3 moves.(7,7)
+Fightround:FinalProject.CalabashWar.Creatures.CB7 & FinalProject.CalabashWar.Creatures.Underling
+FinalProject.CalabashWar.Creatures.CB7 was attacked by 76 HP now: 245.0
+Fightround:FinalProject.CalabashWar.Creatures.CB7 & FinalProject.CalabashWar.Creatures.Underling
+FinalProject.CalabashWar.Creatures.Underling was attacked by 127 HP now: 176.0
+Fightround:FinalProject.CalabashWar.Creatures.CB7 & FinalProject.CalabashWar.Creatures.Underling
+FinalProject.CalabashWar.Creatures.CB7 was attacked by 89 HP now: 156.0
+Fightround:FinalProject.CalabashWar.Creatures.CB7 & FinalProject.CalabashWar.Creatures.Underling
+FinalProject.CalabashWar.Creatures.Underling was attacked by 112 HP now: 64.0
+Fightround:FinalProject.CalabashWar.Creatures.CB7 & FinalProject.CalabashWar.Creatures.Underling
+FinalProject.CalabashWar.Creatures.CB7 was attacked by 87 HP now: 69.0
+Fightround:FinalProject.CalabashWar.Creatures.CB7 & FinalProject.CalabashWar.Creatures.Underling
+FinalProject.CalabashWar.Creatures.Underling was attacked by 138 HP now: -74.0
+Fightround:FinalProject.CalabashWar.Creatures.CB7 & FinalProject.CalabashWar.Creatures.Underling
+FinalProject.CalabashWar.Creatures.Underling was attacked by 125 HP now: 575.0
+Fightround:FinalProject.CalabashWar.Creatures.CB7 & FinalProject.CalabashWar.Creatures.Underling
+FinalProject.CalabashWar.Creatures.CB7 was attacked by 67 HP now: 2.0
+Fightround:FinalProject.CalabashWar.Creatures.CB7 & FinalProject.CalabashWar.Creatures.Underling
+FinalProject.CalabashWar.Creatures.Underling was attacked by 103 HP now: 472.0
+Fightround:FinalProject.CalabashWar.Creatures.CB7 & FinalProject.CalabashWar.Creatures.Underling
+FinalProject.CalabashWar.Creatures.CB7 was attacked by 76 HP now: -74.0
+FinalProject.CalabashWar.Creatures.CB2 Dead.
+FinalProject.CalabashWar.Creatures.Underling Dead.
+FinalProject.CalabashWar.Creatures.Scorpion Dead.
+FinalProject.CalabashWar.Creatures.CB6 Dead.
+FinalProject.CalabashWar.Creatures.CB5 Move failed
+
+Current Creatures: 7
+FinalProject.CalabashWar.Creatures.CB5 moves.(10,7)
+FinalProject.CalabashWar.Creatures.CB4 moves.(9,7)
+FinalProject.CalabashWar.Creatures.Grandpa moves.(10,9)
+Fightround:FinalProject.CalabashWar.Creatures.Grandpa & FinalProject.CalabashWar.Creatures.Underling
+FinalProject.CalabashWar.Creatures.CB3 moves.(8,7)
+FinalProject.CalabashWar.Creatures.Underling was attacked by 93 HP now: 379.0
+Fightround:FinalProject.CalabashWar.Creatures.Grandpa & FinalProject.CalabashWar.Creatures.Underling
+FinalProject.CalabashWar.Creatures.Grandpa was attacked by 71 HP now: 729.0
+Fightround:FinalProject.CalabashWar.Creatures.Grandpa & FinalProject.CalabashWar.Creatures.Underling
+FinalProject.CalabashWar.Creatures.Underling was attacked by 93 HP now: 286.0
+Fightround:FinalProject.CalabashWar.Creatures.Grandpa & FinalProject.CalabashWar.Creatures.Underling
+FinalProject.CalabashWar.Creatures.Grandpa was attacked by 74 HP now: 655.0
+Fightround:FinalProject.CalabashWar.Creatures.Grandpa & FinalProject.CalabashWar.Creatures.Underling
+FinalProject.CalabashWar.Creatures.Underling was attacked by 82 HP now: 204.0
+Fightround:FinalProject.CalabashWar.Creatures.Grandpa & FinalProject.CalabashWar.Creatures.Underling
+FinalProject.CalabashWar.Creatures.Grandpa was attacked by 66 HP now: 589.0
+Fightround:FinalProject.CalabashWar.Creatures.Grandpa & FinalProject.CalabashWar.Creatures.Underling
+FinalProject.CalabashWar.Creatures.Underling was attacked by 88 HP now: 116.0
+Fightround:FinalProject.CalabashWar.Creatures.Grandpa & FinalProject.CalabashWar.Creatures.Underling
+FinalProject.CalabashWar.Creatures.Grandpa was attacked by 70 HP now: 519.0
+Fightround:FinalProject.CalabashWar.Creatures.Grandpa & FinalProject.CalabashWar.Creatures.Underling
+FinalProject.CalabashWar.Creatures.Underling was attacked by 91 HP now: 25.0
+Fightround:FinalProject.CalabashWar.Creatures.Grandpa & FinalProject.CalabashWar.Creatures.Underling
+FinalProject.CalabashWar.Creatures.Grandpa was attacked by 80 HP now: 439.0
+Fightround:FinalProject.CalabashWar.Creatures.Grandpa & FinalProject.CalabashWar.Creatures.Underling
+FinalProject.CalabashWar.Creatures.Underling was attacked by 109 HP now: -84.0
+FinalProject.CalabashWar.Creatures.CB1 moves.(10,5)
+FinalProject.CalabashWar.Creatures.Underling moves.(10,8)
+FinalProject.CalabashWar.Creatures.Snake Dead.
+FinalProject.CalabashWar.Creatures.Underling Dead.
+FinalProject.CalabashWar.Creatures.Underling Dead.
+FinalProject.CalabashWar.Creatures.Underling Dead.
+FinalProject.CalabashWar.Creatures.CB7 Dead.
+FinalProject.CalabashWar.Creatures.Underling moves.(11,8)
+Fightround:FinalProject.CalabashWar.Creatures.CB5 & FinalProject.CalabashWar.Creatures.Underling
+FinalProject.CalabashWar.Creatures.CB5 was attacked by 78 HP now: 458.0
+Fightround:FinalProject.CalabashWar.Creatures.CB5 & FinalProject.CalabashWar.Creatures.Underling
+FinalProject.CalabashWar.Creatures.Underling was attacked by 100 HP now: 600.0
+Fightround:FinalProject.CalabashWar.Creatures.CB5 & FinalProject.CalabashWar.Creatures.Underling
+FinalProject.CalabashWar.Creatures.CB5 was attacked by 78 HP now: 380.0
+Fightround:FinalProject.CalabashWar.Creatures.CB5 & FinalProject.CalabashWar.Creatures.Underling
+FinalProject.CalabashWar.Creatures.Underling was attacked by 140 HP now: 460.0
+Fightround:FinalProject.CalabashWar.Creatures.CB5 & FinalProject.CalabashWar.Creatures.Underling
+FinalProject.CalabashWar.Creatures.CB5 was attacked by 86 HP now: 294.0
+Fightround:FinalProject.CalabashWar.Creatures.CB5 & FinalProject.CalabashWar.Creatures.Underling
+FinalProject.CalabashWar.Creatures.Underling was attacked by 149 HP now: 311.0
+Fightround:FinalProject.CalabashWar.Creatures.CB5 & FinalProject.CalabashWar.Creatures.Underling
+FinalProject.CalabashWar.Creatures.CB5 was attacked by 79 HP now: 215.0
+Fightround:FinalProject.CalabashWar.Creatures.CB5 & FinalProject.CalabashWar.Creatures.Underling
+FinalProject.CalabashWar.Creatures.Underling was attacked by 107 HP now: 204.0
+Fightround:FinalProject.CalabashWar.Creatures.CB5 & FinalProject.CalabashWar.Creatures.Underling
+FinalProject.CalabashWar.Creatures.CB5 was attacked by 89 HP now: 126.0
+Fightround:FinalProject.CalabashWar.Creatures.CB5 & FinalProject.CalabashWar.Creatures.Underling
+FinalProject.CalabashWar.Creatures.Underling was attacked by 116 HP now: 88.0
+Fightround:FinalProject.CalabashWar.Creatures.CB5 & FinalProject.CalabashWar.Creatures.Underling
+FinalProject.CalabashWar.Creatures.CB5 was attacked by 63 HP now: 63.0
+Fightround:FinalProject.CalabashWar.Creatures.CB5 & FinalProject.CalabashWar.Creatures.Underling
+FinalProject.CalabashWar.Creatures.Underling was attacked by 119 HP now: -31.0
+
+WAR END, good creatures win!
